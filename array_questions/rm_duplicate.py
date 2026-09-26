@@ -25,8 +25,6 @@ def rm_dup2(l):
             
 
 
-
-
 l = [1,1,1,2,3,4,4,7,9,9,9,10]
 unique_ele = rm_dup2(l)
 print(l,unique_ele)
