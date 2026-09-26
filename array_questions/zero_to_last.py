@@ -16,7 +16,7 @@ l=move_to_last(l)
 print(l)
 
 
-Brute force
+# Brute force
 def moveZeroes(nums):
         j = []
         for i in range(len(nums)):
